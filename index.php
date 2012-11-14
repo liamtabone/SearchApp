@@ -51,7 +51,6 @@ if ($user_id) {
     if (!$facebook->getUser()) {
       header('Location: '. AppInfo::getUrl($_SERVER['REQUEST_URI']));
       exit();
-            save_or_mail_results()
     }
   }
 
@@ -255,7 +254,7 @@ $Dictionaryobj->indexTokenStream($token2);
       </div>
       <?php } else { ?>
       <div>
-        <h1>Welcome Loser</h1>
+        <h1>Its working Loser</h1>
         <div class="fb-login-button" data-scope="user_likes,user_photos"></div>
       </div>
       <?php } ?>
