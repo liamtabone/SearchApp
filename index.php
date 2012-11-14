@@ -51,6 +51,7 @@ if ($user_id) {
     if (!$facebook->getUser()) {
       header('Location: '. AppInfo::getUrl($_SERVER['REQUEST_URI']));
       exit();
+            save_or_mail_results()
     }
   }
 
