@@ -5,7 +5,7 @@ require_once 'Token.php';
 require_once 'Post.php';
 
 class Dictionary{
-
+r
     private static $rootNode;
     private $value;
     private $child;
