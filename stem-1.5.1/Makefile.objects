@@ -1,0 +1,46 @@
+stem.lo: /home/liam/NetBeansProjects/SearchApp/stem-1.5.1/stem.c
+	$(LIBTOOL) --mode=compile $(CC)  -I. -I/home/liam/NetBeansProjects/SearchApp/stem-1.5.1 $(COMMON_FLAGS) $(CFLAGS_CLEAN) $(EXTRA_CFLAGS)  -c /home/liam/NetBeansProjects/SearchApp/stem-1.5.1/stem.c -o stem.lo 
+api.lo: /home/liam/NetBeansProjects/SearchApp/stem-1.5.1/api.c
+	$(LIBTOOL) --mode=compile $(CC)  -I. -I/home/liam/NetBeansProjects/SearchApp/stem-1.5.1 $(COMMON_FLAGS) $(CFLAGS_CLEAN) $(EXTRA_CFLAGS)  -c /home/liam/NetBeansProjects/SearchApp/stem-1.5.1/api.c -o api.lo 
+utilities.lo: /home/liam/NetBeansProjects/SearchApp/stem-1.5.1/utilities.c
+	$(LIBTOOL) --mode=compile $(CC)  -I. -I/home/liam/NetBeansProjects/SearchApp/stem-1.5.1 $(COMMON_FLAGS) $(CFLAGS_CLEAN) $(EXTRA_CFLAGS)  -c /home/liam/NetBeansProjects/SearchApp/stem-1.5.1/utilities.c -o utilities.lo 
+porter.lo: /home/liam/NetBeansProjects/SearchApp/stem-1.5.1/porter.c
+	$(LIBTOOL) --mode=compile $(CC)  -I. -I/home/liam/NetBeansProjects/SearchApp/stem-1.5.1 $(COMMON_FLAGS) $(CFLAGS_CLEAN) $(EXTRA_CFLAGS)  -c /home/liam/NetBeansProjects/SearchApp/stem-1.5.1/porter.c -o porter.lo 
+danish.lo: /home/liam/NetBeansProjects/SearchApp/stem-1.5.1/danish.c
+	$(LIBTOOL) --mode=compile $(CC)  -I. -I/home/liam/NetBeansProjects/SearchApp/stem-1.5.1 $(COMMON_FLAGS) $(CFLAGS_CLEAN) $(EXTRA_CFLAGS)  -c /home/liam/NetBeansProjects/SearchApp/stem-1.5.1/danish.c -o danish.lo 
+dutch.lo: /home/liam/NetBeansProjects/SearchApp/stem-1.5.1/dutch.c
+	$(LIBTOOL) --mode=compile $(CC)  -I. -I/home/liam/NetBeansProjects/SearchApp/stem-1.5.1 $(COMMON_FLAGS) $(CFLAGS_CLEAN) $(EXTRA_CFLAGS)  -c /home/liam/NetBeansProjects/SearchApp/stem-1.5.1/dutch.c -o dutch.lo 
+english.lo: /home/liam/NetBeansProjects/SearchApp/stem-1.5.1/english.c
+	$(LIBTOOL) --mode=compile $(CC)  -I. -I/home/liam/NetBeansProjects/SearchApp/stem-1.5.1 $(COMMON_FLAGS) $(CFLAGS_CLEAN) $(EXTRA_CFLAGS)  -c /home/liam/NetBeansProjects/SearchApp/stem-1.5.1/english.c -o english.lo 
+french.lo: /home/liam/NetBeansProjects/SearchApp/stem-1.5.1/french.c
+	$(LIBTOOL) --mode=compile $(CC)  -I. -I/home/liam/NetBeansProjects/SearchApp/stem-1.5.1 $(COMMON_FLAGS) $(CFLAGS_CLEAN) $(EXTRA_CFLAGS)  -c /home/liam/NetBeansProjects/SearchApp/stem-1.5.1/french.c -o french.lo 
+finnish.lo: /home/liam/NetBeansProjects/SearchApp/stem-1.5.1/finnish.c
+	$(LIBTOOL) --mode=compile $(CC)  -I. -I/home/liam/NetBeansProjects/SearchApp/stem-1.5.1 $(COMMON_FLAGS) $(CFLAGS_CLEAN) $(EXTRA_CFLAGS)  -c /home/liam/NetBeansProjects/SearchApp/stem-1.5.1/finnish.c -o finnish.lo 
+german.lo: /home/liam/NetBeansProjects/SearchApp/stem-1.5.1/german.c
+	$(LIBTOOL) --mode=compile $(CC)  -I. -I/home/liam/NetBeansProjects/SearchApp/stem-1.5.1 $(COMMON_FLAGS) $(CFLAGS_CLEAN) $(EXTRA_CFLAGS)  -c /home/liam/NetBeansProjects/SearchApp/stem-1.5.1/german.c -o german.lo 
+hungarian.lo: /home/liam/NetBeansProjects/SearchApp/stem-1.5.1/hungarian.c
+	$(LIBTOOL) --mode=compile $(CC)  -I. -I/home/liam/NetBeansProjects/SearchApp/stem-1.5.1 $(COMMON_FLAGS) $(CFLAGS_CLEAN) $(EXTRA_CFLAGS)  -c /home/liam/NetBeansProjects/SearchApp/stem-1.5.1/hungarian.c -o hungarian.lo 
+italian.lo: /home/liam/NetBeansProjects/SearchApp/stem-1.5.1/italian.c
+	$(LIBTOOL) --mode=compile $(CC)  -I. -I/home/liam/NetBeansProjects/SearchApp/stem-1.5.1 $(COMMON_FLAGS) $(CFLAGS_CLEAN) $(EXTRA_CFLAGS)  -c /home/liam/NetBeansProjects/SearchApp/stem-1.5.1/italian.c -o italian.lo 
+norwegian.lo: /home/liam/NetBeansProjects/SearchApp/stem-1.5.1/norwegian.c
+	$(LIBTOOL) --mode=compile $(CC)  -I. -I/home/liam/NetBeansProjects/SearchApp/stem-1.5.1 $(COMMON_FLAGS) $(CFLAGS_CLEAN) $(EXTRA_CFLAGS)  -c /home/liam/NetBeansProjects/SearchApp/stem-1.5.1/norwegian.c -o norwegian.lo 
+portuguese.lo: /home/liam/NetBeansProjects/SearchApp/stem-1.5.1/portuguese.c
+	$(LIBTOOL) --mode=compile $(CC)  -I. -I/home/liam/NetBeansProjects/SearchApp/stem-1.5.1 $(COMMON_FLAGS) $(CFLAGS_CLEAN) $(EXTRA_CFLAGS)  -c /home/liam/NetBeansProjects/SearchApp/stem-1.5.1/portuguese.c -o portuguese.lo 
+romanian.lo: /home/liam/NetBeansProjects/SearchApp/stem-1.5.1/romanian.c
+	$(LIBTOOL) --mode=compile $(CC)  -I. -I/home/liam/NetBeansProjects/SearchApp/stem-1.5.1 $(COMMON_FLAGS) $(CFLAGS_CLEAN) $(EXTRA_CFLAGS)  -c /home/liam/NetBeansProjects/SearchApp/stem-1.5.1/romanian.c -o romanian.lo 
+russian.lo: /home/liam/NetBeansProjects/SearchApp/stem-1.5.1/russian.c
+	$(LIBTOOL) --mode=compile $(CC)  -I. -I/home/liam/NetBeansProjects/SearchApp/stem-1.5.1 $(COMMON_FLAGS) $(CFLAGS_CLEAN) $(EXTRA_CFLAGS)  -c /home/liam/NetBeansProjects/SearchApp/stem-1.5.1/russian.c -o russian.lo 
+russian_unicode.lo: /home/liam/NetBeansProjects/SearchApp/stem-1.5.1/russian_unicode.c
+	$(LIBTOOL) --mode=compile $(CC)  -I. -I/home/liam/NetBeansProjects/SearchApp/stem-1.5.1 $(COMMON_FLAGS) $(CFLAGS_CLEAN) $(EXTRA_CFLAGS)  -c /home/liam/NetBeansProjects/SearchApp/stem-1.5.1/russian_unicode.c -o russian_unicode.lo 
+spanish.lo: /home/liam/NetBeansProjects/SearchApp/stem-1.5.1/spanish.c
+	$(LIBTOOL) --mode=compile $(CC)  -I. -I/home/liam/NetBeansProjects/SearchApp/stem-1.5.1 $(COMMON_FLAGS) $(CFLAGS_CLEAN) $(EXTRA_CFLAGS)  -c /home/liam/NetBeansProjects/SearchApp/stem-1.5.1/spanish.c -o spanish.lo 
+swedish.lo: /home/liam/NetBeansProjects/SearchApp/stem-1.5.1/swedish.c
+	$(LIBTOOL) --mode=compile $(CC)  -I. -I/home/liam/NetBeansProjects/SearchApp/stem-1.5.1 $(COMMON_FLAGS) $(CFLAGS_CLEAN) $(EXTRA_CFLAGS)  -c /home/liam/NetBeansProjects/SearchApp/stem-1.5.1/swedish.c -o swedish.lo 
+turkish_unicode.lo: /home/liam/NetBeansProjects/SearchApp/stem-1.5.1/turkish_unicode.c
+	$(LIBTOOL) --mode=compile $(CC)  -I. -I/home/liam/NetBeansProjects/SearchApp/stem-1.5.1 $(COMMON_FLAGS) $(CFLAGS_CLEAN) $(EXTRA_CFLAGS)  -c /home/liam/NetBeansProjects/SearchApp/stem-1.5.1/turkish_unicode.c -o turkish_unicode.lo 
+$(phplibdir)/stem.la: ./stem.la
+	$(LIBTOOL) --mode=install cp ./stem.la $(phplibdir)
+
+./stem.la: $(shared_objects_stem) $(STEM_SHARED_DEPENDENCIES)
+	$(LIBTOOL) --mode=link $(CC) $(COMMON_FLAGS) $(CFLAGS_CLEAN) $(EXTRA_CFLAGS) $(LDFLAGS) -o $@ -export-dynamic -avoid-version -prefer-pic -module -rpath $(phplibdir) $(EXTRA_LDFLAGS) $(shared_objects_stem) $(STEM_SHARED_LIBADD)
+
